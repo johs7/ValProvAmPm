@@ -1,0 +1,14 @@
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\bin\Debug\Formato_Prov.exe.config
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\bin\Debug\Formato_Prov.exe
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\bin\Debug\Formato_Prov.pdb
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\bin\Debug\EntityFramework.dll
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\bin\Debug\Guna.UI2.dll
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\bin\Debug\EntityFramework.xml
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.Properties.Resources.resources
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.csproj.GenerateResource.cache
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.csproj.CoreCompileInputs.cache
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.csproj.CopyComplete
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.exe
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.pdb
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.csproj.AssemblyReference.cache
+C:\Users\Fabian aaaaa\source\repos\Formato_Prov\obj\Debug\Formato_Prov.FormProv.resources

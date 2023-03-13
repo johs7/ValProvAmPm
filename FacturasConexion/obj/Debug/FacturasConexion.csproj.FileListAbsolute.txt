@@ -1,0 +1,7 @@
+C:\Users\Fabian aaaaa\source\repos\FacturasConexion\obj\Debug\FacturasConexion.csproj.AssemblyReference.cache
+C:\Users\Fabian aaaaa\source\repos\FacturasConexion\obj\Debug\FacturasConexion.csproj.CoreCompileInputs.cache
+C:\Users\Fabian aaaaa\source\repos\FacturasConexion\obj\Debug\FacturasConexion.dll
+C:\Users\Fabian aaaaa\source\repos\FacturasConexion\obj\Debug\FacturasConexion.pdb
+C:\Program Files (x86)\Retail Hero\RMH Store Manager\Extensions\facturaConexion_AMPM\FacturasConexion.dll
+C:\Program Files (x86)\Retail Hero\RMH Store Manager\Extensions\facturaConexion_AMPM\FacturasConexion.pdb
+C:\Users\Fabian aaaaa\source\repos\FacturasConexion\obj\Debug\FacturasConexion.csproj.CopyComplete
